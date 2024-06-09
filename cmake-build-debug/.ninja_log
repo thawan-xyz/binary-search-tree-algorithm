@@ -1,0 +1,27 @@
+# ninja log v5
+3	452	7395978794929800	CMakeFiles/binary_search_tree_algorithm.dir/main.cpp.obj	49714ba39d6172fa
+454	622	7395978796581740	binary_search_tree_algorithm.exe	54dbde15ed6a0281
+6	404	7395980494301707	CMakeFiles/binary_search_tree_algorithm.dir/main.cpp.obj	49714ba39d6172fa
+404	486	7395980495096850	binary_search_tree_algorithm.exe	54dbde15ed6a0281
+6	393	7395986469359553	CMakeFiles/binary_search_tree_algorithm.dir/main.cpp.obj	49714ba39d6172fa
+393	490	7395986470303062	binary_search_tree_algorithm.exe	54dbde15ed6a0281
+19	399	7395988931319298	CMakeFiles/binary_search_tree_algorithm.dir/main.cpp.obj	49714ba39d6172fa
+402	480	7395988932084552	binary_search_tree_algorithm.exe	54dbde15ed6a0281
+7	430	7396030689506277	CMakeFiles/binary_search_tree_algorithm.dir/main.cpp.obj	49714ba39d6172fa
+431	581	7396030690971517	binary_search_tree_algorithm.exe	54dbde15ed6a0281
+18	466	7396032231556539	CMakeFiles/binary_search_tree_algorithm.dir/main.cpp.obj	49714ba39d6172fa
+467	554	7396032232426543	binary_search_tree_algorithm.exe	54dbde15ed6a0281
+16	404	7396032286073347	CMakeFiles/binary_search_tree_algorithm.dir/main.cpp.obj	49714ba39d6172fa
+405	485	7396032286842950	binary_search_tree_algorithm.exe	54dbde15ed6a0281
+17	411	7396032452528929	CMakeFiles/binary_search_tree_algorithm.dir/main.cpp.obj	49714ba39d6172fa
+412	491	7396032453311084	binary_search_tree_algorithm.exe	54dbde15ed6a0281
+19	435	7396032526661768	CMakeFiles/binary_search_tree_algorithm.dir/main.cpp.obj	49714ba39d6172fa
+435	516	7396032527447377	binary_search_tree_algorithm.exe	54dbde15ed6a0281
+17	466	7396032699305482	CMakeFiles/binary_search_tree_algorithm.dir/main.cpp.obj	49714ba39d6172fa
+466	556	7396032700104967	binary_search_tree_algorithm.exe	54dbde15ed6a0281
+17	477	7396034279871104	CMakeFiles/binary_search_tree_algorithm.dir/main.cpp.obj	49714ba39d6172fa
+477	560	7396034280686365	binary_search_tree_algorithm.exe	54dbde15ed6a0281
+17	406	7396034340277490	CMakeFiles/binary_search_tree_algorithm.dir/main.cpp.obj	49714ba39d6172fa
+407	490	7396034341081587	binary_search_tree_algorithm.exe	54dbde15ed6a0281
+7	513	7396042723963051	CMakeFiles/binary_search_tree_algorithm.dir/main.cpp.obj	49714ba39d6172fa
+514	605	7396042724853709	binary_search_tree_algorithm.exe	54dbde15ed6a0281
