@@ -54,6 +54,7 @@
     &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Thawan/CLionProjects/binary-search-tree-algorithm&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -83,6 +84,9 @@
       <workItem from="1717976412214" duration="15000" />
       <workItem from="1717976442139" duration="6000" />
       <workItem from="1718226503059" duration="5480000" />
+      <workItem from="1718374636651" duration="230000" />
+      <workItem from="1718374871819" duration="12000" />
+      <workItem from="1718374901487" duration="5000" />
     </task>
     <servers />
   </component>
